@@ -1,4 +1,4 @@
-# Base openGL project for mac
+# Boilerplate code for OpenGL project on mac + vscode
 
 This is a starter boiler plate code for starting OpenGL projects on macos.
 
